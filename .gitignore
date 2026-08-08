@@ -1,0 +1,15 @@
+# Python / Cache
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+env/
+venv/
+.venv/
+
+# Pesos do YOLO (baixados automaticamente)
+*.pt
+
+# Configurações de IDE
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+computer-vision-traffic-analyzer/
+├── videos/             # Vídeo de entrada para teste (ex: sample.mp4)
+├── output/             # Vídeo final processado
+├── tracker.py          # Lógica de rastreamento e detecção de cruzamento de linha
+├── main.py             # Script de execução principal
+├── requirements.txt    # Dependências do projeto
+└── README.md           # Documentação
