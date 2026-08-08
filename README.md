@@ -34,13 +34,11 @@ computer-vision-traffic-analyzer/
 
 ### Video Demo
 
-The following video demonstrates the complete detection, tracking, and bi-directional pedestrian counting pipeline.
+The following demonstration shows the complete detection, tracking, and bi-directional pedestrian counting pipeline.
 
-<video src="output/result_video.mp4" controls width="800">
-  Your browser does not support the video tag.
-</video>
+![Traffic Analyzer Demo](output/result_video.gif)
 
-> **Output:** `output/result_video.mp4`
+> **Output:** `output/result_video.gif`
 
 The processed video includes:
 
